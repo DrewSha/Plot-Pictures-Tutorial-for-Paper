@@ -4,13 +4,13 @@
 
 首先我们要引入matplotlib，通用的简写如下：
 
-<center><font face="consolas">import matplotlib.pyplot as plt</font></center>
+`import matplotlib.pyplot as plt`
 
 画图的第一步通常是使用plt.subplots()函数：
 
 生成一块画布。前两个参数为x、y，将画布分成x行y列，每一块是一个axe，返回画布和axes的数组，后面还可以跟一些figure的参数。示例：
 
-<center><font face="consolas">fig, axes = plt.subplots(1, 2, figsize = (8, 10))</font></center>
+`fig, axes = plt.subplots(1, 2, figsize = (8, 10))`
 
 之后调用各个axe的各个画图函数，即可对每一个小块进行作图。下介绍常用函数。
 
@@ -61,7 +61,7 @@ axes.yaxis.set_minor_locator(MultipleLocator(0.005))</font></center>
 
 axes.grid()函数：画网格线。参数which：表示在哪个刻度画网格线，可选的有‘minor’、‘major’、‘both’。axis：表示在哪个轴画线，可选的有‘x’、‘y’、‘both’。示例：
 
-<center><font face="consolas">axe.grid(which = 'minor', c='lightgrey')</font></center>
+`axe.grid(which = 'minor', c='lightgrey')`
 
 **图例设置：**
 
@@ -79,8 +79,8 @@ plt.tight_layout()函数可以自动调整子图参数，填充整个图像区�
 
 设置全局的字体：
 
-<center><font face="consolas">plt.rcParams["font.family"] = "Times New Roman"</font></center>
+`plt.rcParams["font.family"] = "Times New Roman"`
 
 设置局部的字体，常常改变需要设置的字体的fontdict参数中的family项，示例如下：
 
-<center><font face="consolas">plt.title("a", fontdict={'family': 'Times New Roman'})</font></center>
+`plt.title("a", fontdict={'family': 'Times New Roman'})`
