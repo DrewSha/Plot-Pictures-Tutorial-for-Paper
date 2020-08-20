@@ -2,7 +2,7 @@
 
 首先我们需要通过百度找到一些颜色协调好看的配色卡，提供一个配色卡资源如下：
 
-<center>https://zhuanlan.zhihu.com/p/42878408</center>
+<p align="center">https://zhuanlan.zhihu.com/p/42878408</p>
 
 然后我们从中选择一个好看的色卡，比如选到了下面这张：
 
@@ -30,7 +30,7 @@
 
 下面我们通过这一个网站将其转换为十六进制颜色码：
 
-<center>https://www.sioe.cn/yingyong/yanse-rgb-16/</center>
+<p align="center">https://www.sioe.cn/yingyong/yanse-rgb-16/</p>
 
 示例如下：
 
