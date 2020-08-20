@@ -41,5 +41,5 @@
 将获得的十六进制码写到程序中调整颜色的地方，即可完成配色。我用上面那张配色卡配的一张饼图如下，颜色还是十分协调美观的：
 
 <p align="center">
-	<img src="图片/bingtu.png" width="80%" />
+	<img src="图片/bingtu.png" width="70%" />
 </p>
