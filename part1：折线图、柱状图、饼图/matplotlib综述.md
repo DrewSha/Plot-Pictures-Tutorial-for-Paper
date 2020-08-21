@@ -46,9 +46,10 @@ axes.set_xlim()函数：设置坐标范围。
 
 axes.set_xticks()函数：设置坐标轴刻度。默认情况下是设置的主刻度，如果设置参数minor=True，那么就是设置的分刻度。示例：
 
-<p align="center">
-<img src="图片/image-20200818152650048.png" width=67%" />
-</p>
+```python
+axes.set_xticks([1, 2, 3])
+axes.set_xticks([0.5, 1.5, 2.5, 3.5], minor=True)
+```
 
 <p align="center">
 <img src="图片/image-20200818152721207.png" />

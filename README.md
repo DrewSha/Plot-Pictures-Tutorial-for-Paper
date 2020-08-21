@@ -6,11 +6,11 @@
 
 本项目主要介绍以下三块内容：
 
-一、[折线图、柱状图、饼图](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A折线图、柱状图、饼图/折线图、柱状图、饼图.pdf)（附[matplotlib综述](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A折线图、柱状图、饼图/matplotlib综述.pdf)、[图形配色教程](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A折线图、柱状图、饼图/2min学会配色.pdf)）
+一、[折线图、柱状图、饼图](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE/%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE.md)（附[matplotlib综述](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE/matplotlib%E7%BB%BC%E8%BF%B0.md)、[图形配色教程](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE/2min%E5%AD%A6%E4%BC%9A%E9%85%8D%E8%89%B2.md)）
 
 二、热力图、t-test
 
-三、t-sen图
+三、t-sne图
 
 ## Acknowledgement
 
