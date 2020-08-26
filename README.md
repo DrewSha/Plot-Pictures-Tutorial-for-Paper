@@ -8,7 +8,7 @@
 
 一、[折线图、柱状图、饼图](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE/%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE.md)（附[matplotlib综述](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE/matplotlib%E7%BB%BC%E8%BF%B0.md)、[图形配色教程](https://github.com/yqy2001/Plot-Pictures-Tutorial-for-Paper/blob/master/part1%EF%BC%9A%E6%8A%98%E7%BA%BF%E5%9B%BE%E3%80%81%E6%9F%B1%E7%8A%B6%E5%9B%BE%E3%80%81%E9%A5%BC%E5%9B%BE/2min%E5%AD%A6%E4%BC%9A%E9%85%8D%E8%89%B2.md)）
 
-二、热力图、t-test
+二、[热力图](https://github.com/lawrencejh0802/Plot-Pictures-Tutorial-for-Paper/tree/master/part2%EF%BC%9A热力图、t-test/热力图)、[t-test](https://github.com/lawrencejh0802/Plot-Pictures-Tutorial-for-Paper/tree/master/part2%EF%BC%9A热力图、t-test/t-test)
 
 三、t-sne图
 
@@ -17,3 +17,4 @@
 特别感谢[车万翔](http://ir.hit.edu.cn/~car/english.htm)老师的指导和支持
 
 感谢贡献者：[禹棋赢](https://github.com/yqy2001)（哈尔滨工业大学本科生）
+           [陆任驰](https://github.com/lawrencejh0802)（哈尔滨工业大学本科生）
